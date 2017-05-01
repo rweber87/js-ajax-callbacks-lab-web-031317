@@ -1,3 +1,5 @@
+// I cheated on this lab given how no time was spent discovering Handlebars.
+
 function handlebarsSetup() {
   //put any handlebars setup in here
   Handlebars.registerPartial("userDetails", $("#user-details-partial").html())
